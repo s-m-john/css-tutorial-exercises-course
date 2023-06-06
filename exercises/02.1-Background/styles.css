@@ -1,5 +1,16 @@
 body {
 	background-image: url(https://4geeksacademy.github.io/exercise-assets/img/bg/small-mosaic.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-size: contain;
+	background-repeat: repeat;
 }
+
+
+/* 
+body {
+	background-image: url(https://4geeksacademy.github.io/exercise-assets/img/bg/small-mosaic.jpg);
+	background-size: contain;
+	background-repeat: repeat-x;
+	background-repeat: repeat-y;
+}
+
+*/
